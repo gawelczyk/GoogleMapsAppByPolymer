@@ -2,13 +2,14 @@
   "name": "GoogleMapsAppByPolymer",
   "description": "",
   "homepage": "",
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "",
   "private": true,
   "dependencies": {
     "polymer": "Polymer/polymer#master",
     "platform": "Polymer/platform#master",
-    "paper-elements": "Polymer/paper-elements#master"
+    "paper-elements": "Polymer/paper-elements#master",
+    "google-map": "GoogleWebComponents/google-map#~0.4.0",
+    "webcomponentsjs": "~0.5.1"
   }
 }
